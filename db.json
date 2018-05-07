@@ -1,5 +1,5 @@
-robots = [
-    {
+{
+	{
         id: 1,
         name: 'Leanne Graham',
         username: 'Bret',
@@ -59,4 +59,4 @@ robots = [
         username: 'Moriah.Stanton',
         email: 'Rey.Padberg@karina.biz'
     }
-];
+}
